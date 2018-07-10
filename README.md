@@ -22,3 +22,6 @@ model data structure : Reference from Cleverhan. Definded in models.py, witch pr
 'Flatten6': <tf.Tensor 'Reshape:0' shape=(?, 128) dtype=float32>,    
 'logits': <tf.Tensor 'add_10:0' shape=(?, 10) dtype=float32>,    
 'probs': <tf.Tensor 'Softmax:0' shape=(?, 10) dtype=float32>   
+
+## Problems & some conclution
+< https://docs.google.com/document/d/1NhyEjP_6181k1pIojbDmpK0pSM5XeCmY3nqBjCFQChc/edit?usp=sharing >

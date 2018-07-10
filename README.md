@@ -1,7 +1,7 @@
 # AI_Security_training
 
 ## Setup
-run python ./C_W.py
+run python ./C_W.py         
 env : anoconda, python-3.5, numpy, tensorflow
 
 ## Attack : Carlini and Wagner L2

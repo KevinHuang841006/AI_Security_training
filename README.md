@@ -2,6 +2,7 @@
 
 ## Setup
 run python ./C_W.py
+env : anoconda, python-3.5, numpy, tensorflow
 
 ## Attack : Carlini and Wagner L2
 Proposed by Carlini and Wagner. It is an iterative, white box attack.
